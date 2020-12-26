@@ -1,0 +1,26 @@
+.t{
+    padding: 29px;
+    
+    }
+    .top-left {
+        position: absolute;
+        top: 20%;
+        left: 10%;
+        width:50%;
+      
+      }
+.name
+{
+    color: blueviolet;
+    font-size: 25px;
+    margin-left: 30%;
+}
+
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    margin-right: 1%;
+    font-size: 18px
+  }
+  

@@ -1,0 +1,42 @@
+.mainimg
+{
+  	min-height:100%;
+    min-width:100%;
+    height:auto;
+    width:auto;
+    position:absolute;
+    top:-100%; bottom:-100%;
+    left:-100%; right:-100%;
+    margin:auto;
+}
+.top-left {
+	position: absolute;
+	top: 8px;
+	left: 47%;
+	text-align:center;
+	color:#7D0552;
+  }
+
+  .top-right {
+	position: absolute;
+	top: 8px;
+	right: 16px;
+	color: brown;
+	font-size: 25px;
+	text-decoration: none;
+  }
+ 
+  a:hover {
+	  background-color: yellow;
+	color: blue;
+  }
+  
+  .top-l {
+	position: absolute;
+	top: 8px;
+	left: 16px;
+	color: brown;
+	font-size: 25px;
+	text-decoration: none
+  }
+  

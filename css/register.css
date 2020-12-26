@@ -1,0 +1,53 @@
+.cover{
+    background-color: #f0f8ff36;
+}
+.font{
+    color: blue;
+    position: absolute;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.head1
+{
+    color: red;
+    margin-top: 8%;
+}
+
+.tlb{
+    text-align: center;
+}
+
+.rd
+{
+    margin-left: 35px;
+    margin-right: 5px;
+}
+.td
+{
+    
+    margin-right: 8%;
+
+}
+.fonttext
+{
+    margin-right: 10%;
+}
+.vald
+{
+    color: red;
+}
+.hrcss
+{
+    border-top: 1px solid #7D0552;
+}
+
+.btnmargin
+{
+    margin-right: 28%;
+}
+.Back
+{
+    float: left;
+    margin-left: 30%;
+}
